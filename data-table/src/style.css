@@ -1,0 +1,25 @@
+body {
+	min-height: 100vh;
+	background-image: linear-gradient(navy, #923db5);
+	color: aliceblue;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+h1,
+h2,
+h3 {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+td {
+	border: 1px solid aliceblue;
+	padding: 5px;
+}
